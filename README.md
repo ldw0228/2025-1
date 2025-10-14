@@ -1,6 +1,15 @@
 # 🌟 Welcome to the 2025-1 Project! 🚀
 
-![KW Univ Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png){ width=50px height=50px }
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png" alt="KW Univ Logo" width="50px" height="50px"> 
 
 
 ## 📖 Table of Contents
