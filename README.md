@@ -1,6 +1,7 @@
 # 🌟 Welcome to the 2025-1 Project! 🚀
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Your+Project+Banner+Here)
+![KW Univ Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kwangwoon_University_logo.svg/1200px-Kwangwoon_University_logo.svg.png){ width=50px height=50px }
+
 
 ## 📖 Table of Contents
 - [About the Project](#about-the-project)
